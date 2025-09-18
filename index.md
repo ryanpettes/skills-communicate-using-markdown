@@ -10,4 +10,6 @@
 
 ###### And finally, level 6
 
-Added test text to index.md to try out different headers in markdown.
+# Let's try adding an image...
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
