@@ -25,3 +25,8 @@ int main() {
   return 0;
 }
 ```
+
+# Some steps practice
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
