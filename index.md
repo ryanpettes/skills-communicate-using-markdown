@@ -13,3 +13,15 @@
 # Let's try adding an image...
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Next, a simple Hello, World program in C++
+
+``` c++
+#include <iostream>
+
+int main() {
+  std::cout << "Hello, world" << std::endl;
+
+  return 0;
+}
+```
